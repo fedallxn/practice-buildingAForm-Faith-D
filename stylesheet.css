@@ -1,0 +1,41 @@
+body {
+    background-image: url(https://images.pexels.com/photos/949585/pexels-photo-949585.jpeg?cs=srgb&dl=pexels-rovenimages-com-344613-949585.jpg&fm=jpg);
+    background-size: cover;
+}
+header {
+    text-align: center;
+    color:rgb(56, 40, 63);
+    font-weight: 400;
+    font-style: normal;
+}
+h1 {
+    font-family: "Cinzel", serif;
+    font-size: 50px;
+}
+h2 {
+    font-family: "Bebas Neue", sans-serif;
+    font-size: 20px;
+}
+fieldset {
+    background-color: rgb(206, 150, 206);
+    margin: 0 auto;
+    width: 500px;
+    border: 2px solid rgb(56, 40, 63);
+    border-radius: 10px;
+    font-family: "Marcellus", serif;
+}
+legend {
+    font-family: "Caveat", cursive;
+    font-size: 25px;
+
+}
+.submit-btn {
+    background-color: rgb(205, 190, 223);
+    color: rgb(56, 40, 63);
+    padding: 10px 20px;
+    border: 2px solid rgb(56, 40, 63);
+    border-radius: 10px;
+    display: block;
+    margin: 0 auto;
+    font-family: "Marcellus", serif;
+}
